@@ -6,6 +6,7 @@
 // @match        https://www.beatstars.com/*
 // @run-at       document-start
 // @icon         https://content.beatstars.com/public/bts/content/favicon.png
+// @updateURL    https://raw.githubusercontent.com/danthekidd/BeatStars-Ad-Blocker/refs/heads/main/BeatStars%20Ad%20Blocker.user.js
 // @grant        none
 // ==/UserScript==
 
